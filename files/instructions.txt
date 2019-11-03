@@ -1,0 +1,47 @@
+The Chinese language has a huge number of 4-character fixed phrases called '成语‘ (cheng yu). They originate from poetry, folk lores, fairy tales and historical events. 
+
+For example: 
+一叶知秋: From one leaf, one can tell that fall is here
+三心二意: Literally, 'three hearts and two minds', used to describe someone who is fickle or easily distracted
+天马行空: Literally, 'a horse walking in the sky', used to describe someone who is imaginative and whose head is in the clouds
+
+It's a wonder what entire stories and ineffable feelings you can pack into these 4-character phrases. 
+
+Learn about some of these phrases in a fun game of matching! Don't worry if you don't know Chinese. You can match identical characters like 
+'天马' and '天马' (AB-AB) together, or 
+'行空' and '行空' (CD-CD) together.
+Chinese speakers or learners would recognize more possible moves as they would be able to match 
+'天马' and '行空' (AB-CD) together, or 
+'行空' and '天马' (CD-AB) together.
+
+Matching rules follow those of the Mahjong game - two tiles can be matched if they can be connected, unobstructed, by three straight lines or fewer.
+
+Match case 1: Tiles are adjacent or can be connected by one straight unobstructed line
+ *                      X ----- X OR X
+ *                                   |
+ *                                   |
+ *                                   X
+
+Match case 2: Tiles can be connected by two straight unobstructed lines in a L-shape
+ *                      X -----| OR  X
+ *                             |     |
+ *                             X     |-----X
+
+Match case 3: Tiles can be connected by three straight unobstructed lines in a Z-shape
+ *                      X ---|                |-----X
+ *                           |                |
+ *                           |----- X OR X ---|
+
+Match case 4: Tiles can be connected by three straight unobstructed lines in a U-shape
+ *                      X            X---------
+ *                      |   X  OR             |
+ *                      |   |            X----|
+ *                      |----
+
+Controls:
+
+Left-click on a subphrase tile to select and left-click on another to match. Matched tiles will disappear from board. You win when you eliminates all the tiles on the board. 
+
+Left-click on "New Game" button to start a new game with new phrases and different arrangements.
+
+Left-click on "Get Learning Report" to get a report of the correct and wrong matches you made, which will help you improve your grasp of these phrases.
